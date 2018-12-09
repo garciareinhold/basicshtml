@@ -1,0 +1,22 @@
+h1{
+  color: orange;
+
+}
+
+#parrafo-bienvenida{
+  text-align: center;
+  text-decoration: underline;
+  color: green;
+}
+
+
+.contenedor{
+  display: flex;
+flex-direction: row;
+justify-content: space-around;
+
+}
+
+.carta{
+  background-image: url("e4aeb8df191d42395a5b87a5bfe91b93.jpg") center no-repeat;
+}
